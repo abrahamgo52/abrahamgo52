@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I'm a cybersecurity student passionate about securing cloud infrastructure and detecting threats before they become breaches. With hands-on experience in AWS, vulnerability scanning, and security automation, I’m preparing for a career in big tech as a Cloud Security Engineer or Security Analyst.
+I'm a cybersecurity student passionate about securing cloud infrastructure and detecting threats before they become breaches. With hands-on experience in AWS, vulnerability scanning, and security automation, I’m preparing for a career as a Cloud Security Engineer or Security Analyst.
 
 ---
 
