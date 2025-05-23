@@ -62,4 +62,4 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 
 ---
 
-🛡️ *Security in action — building one project at a time.*
+🛡️ *Always learning. Always securing.*
