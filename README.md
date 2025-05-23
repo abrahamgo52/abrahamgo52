@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abraham Gallardo Orozco
 
-🎓 Junior @ UNCW | 🛡️ Cybersecurity & IT Double Major | 📍 North Carolina  
+🎓 Junior @ UNCW | 🛡️ Cybersecurity | 📍 North Carolina  
 🔍 Exploring security, systems, and software to build a safer digital future.
 
 ---
