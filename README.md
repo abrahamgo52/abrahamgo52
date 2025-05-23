@@ -57,7 +57,8 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abrahamgo)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abrahamgo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abrahamgo52)
+Personal Email: abrahamgall52@gmail.com
 
 ---
 
