@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abraham Gallardo Orozco
+# Abraham Gallardo Orozco
 
 🎓 Junior @ UNCW | 🛡️ Cybersecurity | 📍 North Carolina  
 🔍 Focused on cloud security, digital forensics, and vulnerability research.
@@ -20,7 +20,7 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 
 ---
 
-## ☁️ Planned Cloud Security Projects
+## ☁️ Planned Cloud Security Projects (Not Final)
 
 ### 🛡️ Cloud IAM Misconfiguration Lab
 - Simulate real-world AWS IAM misconfigurations and privilege escalation
