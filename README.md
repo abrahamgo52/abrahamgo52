@@ -15,21 +15,23 @@ I'm a passionate cybersecurity student focused on ethical hacking, cloud securit
 
 Here are some of my personal and academic projects related to cybersecurity:
 
-### 🔐 [Vulnerability Scanner Lab](https://github.com/your-username/vulnerability-scanner-lab)
+### 🔐 [Vulnerability Scanner Lab](https://github.com/abrahamgo/vulnerability-scanner-lab)
 - Built using: **Kali Linux**, **Nmap**, **Nikto**, **OpenVAS**
 - Explores basic vulnerability scanning and target enumeration on virtual machines
 - Documents CVEs found and includes sample remediation reports
 
-### 🧰 [CTF Writeups](https://github.com/your-username/ctf-writeups)
+**FUTURE PROJECTS:**
+
+### 🧰 [CTF Writeups]
 - Platforms: **TryHackMe**, **HackTheBox**, **PicoCTF**
 - Challenges range from web exploitation to reverse engineering and cryptography
 - Each writeup includes tools used, steps taken, and lessons learned
 
-### ☁️ [Cloud Security Demo](https://github.com/your-username/cloud-security-demo)
+### ☁️ [Cloud Security Demo]
 - Simulated insecure cloud environment (AWS EC2, S3) with remediation walkthrough
 - Includes IAM misconfigurations, public S3 bucket enumeration, and logging setup
 
-### 🔍 [Security Research: AI & Prompt Injection](https://github.com/your-username/ai-security)
+### 🔍 [Security Research: AI & Prompt Injection]
 - Investigates prompt injection vulnerabilities in AI language models
 - Includes example attacks, mitigation suggestions, and academic references
 
