@@ -1,57 +1,64 @@
 # 👋 Hi, I'm Abraham Gallardo Orozco
 
 🎓 Junior @ UNCW | 🛡️ Cybersecurity | 📍 North Carolina  
-🔍 Exploring security, systems, and software to build a safer digital future.
+🔍 Focused on cloud security, digital forensics, and vulnerability research.
 
 ---
 
 ## 💼 About Me
 
-I'm a passionate cybersecurity student focused on ethical hacking, cloud security, and digital forensics. I'm currently diving into hands-on experience through Capture the Flag (CTF) competitions, virtual labs, and security research projects. My goal is to contribute to securing systems and data in real-world environments, especially through roles like Cloud Security Engineer or Security Analyst.
+I'm a cybersecurity student passionate about securing cloud infrastructure and detecting threats before they become breaches. With hands-on experience in AWS, vulnerability scanning, and security automation, I’m preparing for a career in big tech as a Cloud Security Engineer or Security Analyst.
 
 ---
 
-## 🧪 Cybersecurity Projects
+## 🔧 Current Projects
 
-Here are some of my personal and academic projects related to cybersecurity:
-
-### 🔐 [Vulnerability Scanner Lab](https://github.com/abrahamgo/vulnerability-scanner-lab)
+### 🔐 [Vulnerability Scanner Lab](https://github.com/your-username/vulnerability-scanner-lab)
 - Built using: **Kali Linux**, **Nmap**, **Nikto**, **OpenVAS**
 - Explores basic vulnerability scanning and target enumeration on virtual machines
 - Documents CVEs found and includes sample remediation reports
 
-**FUTURE PROJECTS:**
+---
 
-### 🧰 [CTF Writeups]
-- Platforms: **TryHackMe**, **HackTheBox**, **PicoCTF**
-- Challenges range from web exploitation to reverse engineering and cryptography
-- Each writeup includes tools used, steps taken, and lessons learned
+## ☁️ Planned Cloud Security Projects
 
-### ☁️ [Cloud Security Demo]
-- Simulated insecure cloud environment (AWS EC2, S3) with remediation walkthrough
-- Includes IAM misconfigurations, public S3 bucket enumeration, and logging setup
+### 🛡️ Cloud IAM Misconfiguration Lab
+- Simulate real-world AWS IAM misconfigurations and privilege escalation
+- Remediate roles and policies to enforce least privilege
+- Log and audit actions using CloudTrail
 
-### 🔍 [Security Research: AI & Prompt Injection]
-- Investigates prompt injection vulnerabilities in AI language models
-- Includes example attacks, mitigation suggestions, and academic references
+### 🔒 Secure S3 Bucket Deployment
+- Identify insecure public S3 buckets
+- Apply encryption and bucket policies to secure storage
+- Automate with Python and AWS CLI
+
+### 🧰 Cloud Security Posture Assessment
+- Audit AWS environments with **ScoutSuite** and **Prowler**
+- Identify common cloud misconfigurations and document remediations
+- Map findings to security frameworks (e.g., CIS Benchmarks)
+
+### ☁️ Terraform + tfsec: Secure Infrastructure as Code
+- Deploy secure AWS infrastructure using **Terraform**
+- Integrate `tfsec` and `checkov` to scan for security risks
+- Follow IaC best practices with Git versioning
 
 ---
 
-## 🧠 What I'm Learning
+## 🛠 Skills & Tools
 
-- 🔒 NIST 800-53 Security Controls  
-- ☁️ AWS Cloud Security Essentials  
-- 🐧 Linux Hardening & Scripting  
-- 📊 SIEM & Log Analysis (Splunk, ELK)
+- ☁️ **AWS** (IAM, EC2, S3, CloudTrail, CloudWatch)
+- 🔐 **Cloud Security** (S3 hardening, WAF, IAM policy design)
+- 💻 **Security Tools** (Nmap, Nikto, OpenVAS, ScoutSuite, Prowler)
+- 🧪 **Automation & Scripting** (Python, Bash)
+- 🏗️ **Infrastructure-as-Code** (Terraform, tfsec, checkov)
 
 ---
 
 ## 📫 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abrahamgo)
-- Personal Email: abrahamgall52@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abrahamgo)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abrahamgo)
 
 ---
 
-🛡️ *Always learning. Always securing.*
-
+🛡️ *Security in action — building one project at a time.*
