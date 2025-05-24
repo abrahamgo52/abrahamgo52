@@ -13,7 +13,7 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 
 ## 🔧 Current Projects
 
-### 🔐 [Vulnerability Scanner Lab](https://github.com/abrahamgo52/vulnerability-scanner-lab)
+### 🔐 [Vulnerability Scanner Lab](https://github.com/abrahamgo52/Vulnerability-Scanner-Lab/tree/main)
 - Built using: **Kali Linux**, **Nmap**, **Nikto**, **OpenVAS**
 - Explores basic vulnerability scanning and target enumeration on virtual machines
 - Documents CVEs found and includes sample remediation reports
@@ -50,7 +50,7 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 |---------|----------------------|--------------|
 | ☁️ **Cloud Platforms** | AWS (IAM, EC2, S3, CloudTrail, CloudWatch) | _Planned: Cloud IAM Lab, S3 Deployment_ |
 | 🔐 **Cloud Security** | IAM hardening, WAF setup, S3 security | _Planned: IAM Lab, Secure S3_ |
-| 🧪 **Vulnerability Scanning** | Nmap, OpenVAS, Nikto | [Vulnerability Scanner Lab](https://github.com/abrahamgo52/vulnerability-scanner-lab) |
+| 🧪 **Vulnerability Scanning** | Nmap, OpenVAS, Nikto | [Vulnerability Scanner Lab](https://github.com/abrahamgo52/Vulnerability-Scanner-Lab/tree/main) |
 | 🧰 **Auditing & Compliance** | ScoutSuite, Prowler | _Planned: Posture Assessment_ |
 | 💻 **Automation & Scripting** | Python, Bash | _Planned: Secure S3 Deployment_ |
 | 🏗️ **Infrastructure-as-Code** | Terraform, tfsec, checkov | _Planned: IaC Security Project_ |
