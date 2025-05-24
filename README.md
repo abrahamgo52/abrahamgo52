@@ -57,6 +57,20 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 
 ---
 
+## 📜 Certifications
+
+- 🧰 **Foundations of Cybersecurity** – *Coursera / Google*  
+  [View Credential](https://www.coursera.org/account/accomplishments/verify/K0Q5M48S27SP)
+
+---
+
+> 🧪 **In Progress:**
+> - 🧰 *Google Cybersecurity Professional Certificate*
+> - ☁️ *AWS Certified Cloud Practitioner*  
+> - 🛡️ *CompTIA Security+*
+
+---
+
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abrahamgo)  
