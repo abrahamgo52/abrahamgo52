@@ -13,7 +13,7 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 
 ## 🔧 Current Projects
 
-### 🔐 [Vulnerability Scanner Lab](https://github.com/your-username/vulnerability-scanner-lab)
+### 🔐 [Vulnerability Scanner Lab](https://github.com/abrahamgo52/vulnerability-scanner-lab)
 - Built using: **Kali Linux**, **Nmap**, **Nikto**, **OpenVAS**
 - Explores basic vulnerability scanning and target enumeration on virtual machines
 - Documents CVEs found and includes sample remediation reports
@@ -46,11 +46,14 @@ I'm a cybersecurity student passionate about securing cloud infrastructure and d
 
 ## 🛠 Skills & Tools
 
-- ☁️ **AWS** (IAM, EC2, S3, CloudTrail, CloudWatch)
-- 🔐 **Cloud Security** (S3 hardening, WAF, IAM policy design)
-- 💻 **Security Tools** (Nmap, Nikto, OpenVAS, ScoutSuite, Prowler)
-- 🧪 **Automation & Scripting** (Python, Bash)
-- 🏗️ **Infrastructure-as-Code** (Terraform, tfsec, checkov)
+| Category | Technologies & Tools | Showcased In |
+|---------|----------------------|--------------|
+| ☁️ **Cloud Platforms** | AWS (IAM, EC2, S3, CloudTrail, CloudWatch) | _Planned: Cloud IAM Lab, S3 Deployment_ |
+| 🔐 **Cloud Security** | IAM hardening, WAF setup, S3 security | _Planned: IAM Lab, Secure S3_ |
+| 🧪 **Vulnerability Scanning** | Nmap, OpenVAS, Nikto | [Vulnerability Scanner Lab](https://github.com/abrahamgo52/vulnerability-scanner-lab) |
+| 🧰 **Auditing & Compliance** | ScoutSuite, Prowler | _Planned: Posture Assessment_ |
+| 💻 **Automation & Scripting** | Python, Bash | _Planned: Secure S3 Deployment_ |
+| 🏗️ **Infrastructure-as-Code** | Terraform, tfsec, checkov | _Planned: IaC Security Project_ |
 
 ---
 
