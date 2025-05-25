@@ -1,6 +1,6 @@
 # Abraham Gallardo Orozco
 
-**Junior at UNCW | Cybersecurity | North Carolina**  
+**Junior at UNCW | Cybersecurity | Wilmington, NC**  
 Focused on cloud security, digital forensics, and vulnerability research.
 
 ---
@@ -53,7 +53,8 @@ Deploy secure AWS infrastructure using Terraform. Integrate security tools like 
 ## Certifications
 
 **Foundations of Cybersecurity** – Google (Coursera)  
-[View Credential](https://www.coursera.org/account/accomplishments/verify/K0Q5M48S27SP)
+
+<a href="https://www.coursera.org/account/accomplishments/verify/K0Q5M48S27SP"><img src="https://img.shields.io/badge/View-blue?style=plastic&logoSize=auto" /></a>
 
 **In Progress**  
 - Google Cybersecurity Professional Certificate  
