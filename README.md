@@ -1,81 +1,72 @@
 # Abraham Gallardo Orozco
 
-🎓 Junior @ UNCW | 🛡️ Cybersecurity | 📍 North Carolina  
-🔍 Focused on cloud security, digital forensics, and vulnerability research.
+**Junior at UNCW | Cybersecurity | North Carolina**  
+Focused on cloud security, digital forensics, and vulnerability research.
 
 ---
 
-## 💼 About Me
+## About Me
 
-I'm a cybersecurity student passionate about securing cloud infrastructure and detecting threats before they become breaches. With hands-on experience in AWS, vulnerability scanning, and security automation, I’m preparing for a career as a Cloud Security Engineer or Security Analyst.
-
----
-
-## 🔧 Current Projects
-
-### 🔐 [Vulnerability Scanner Lab](https://github.com/abrahamgo52/Vulnerability-Scanner-Lab/tree/main)
-- Built using: **Kali Linux**, **Nmap**, **Nikto**, **OpenVAS**
-- Explores basic vulnerability scanning and target enumeration on virtual machines
-- Documents CVEs found and includes sample remediation reports
+I’m a cybersecurity student with a strong interest in securing cloud infrastructure and detecting vulnerabilities before they become breaches. With hands-on experience in AWS, vulnerability scanning, and automation, I’m preparing for a career as a Cloud Security Engineer or Security Analyst.
 
 ---
 
-## ☁️ Planned Cloud Security Projects (Not Final)
+## Current Project
 
-### 🛡️ Cloud IAM Misconfiguration Lab
-- Simulate real-world AWS IAM misconfigurations and privilege escalation
-- Remediate roles and policies to enforce least privilege
-- Log and audit actions using CloudTrail
-
-### 🔒 Secure S3 Bucket Deployment
-- Identify insecure public S3 buckets
-- Apply encryption and bucket policies to secure storage
-- Automate with Python and AWS CLI
-
-### 🧰 Cloud Security Posture Assessment
-- Audit AWS environments with **ScoutSuite** and **Prowler**
-- Identify common cloud misconfigurations and document remediations
-- Map findings to security frameworks (e.g., CIS Benchmarks)
-
-### ☁️ Terraform + tfsec: Secure Infrastructure as Code
-- Deploy secure AWS infrastructure using **Terraform**
-- Integrate `tfsec` and `checkov` to scan for security risks
-- Follow IaC best practices with Git versioning
+### Vulnerability Scanner Lab  
+[GitHub Repository](https://github.com/abrahamgo52/Vulnerability-Scanner-Lab/tree/main)  
+- Built using Kali Linux, Nmap, Nikto, and OpenVAS  
+- Explores basic vulnerability scanning and target enumeration in a virtualized environment  
+- Documents identified CVEs with sample remediation reports
 
 ---
 
-## 🛠 Skills & Tools
+## Upcoming Cloud Security Projects
 
-| Category | Technologies & Tools | Showcased In |
-|---------|----------------------|--------------|
-| ☁️ **Cloud Platforms** | AWS (IAM, EC2, S3, CloudTrail, CloudWatch) | _Planned: Cloud IAM Lab, S3 Deployment_ |
-| 🔐 **Cloud Security** | IAM hardening, WAF setup, S3 security | _Planned: IAM Lab, Secure S3_ |
-| 🧪 **Vulnerability Scanning** | Nmap, OpenVAS, Nikto | [Vulnerability Scanner Lab](https://github.com/abrahamgo52/Vulnerability-Scanner-Lab/tree/main) |
-| 🧰 **Auditing & Compliance** | ScoutSuite, Prowler | _Planned: Posture Assessment_ |
-| 💻 **Automation & Scripting** | Python, Bash | _Planned: Secure S3 Deployment_ |
-| 🏗️ **Infrastructure-as-Code** | Terraform, tfsec, checkov | _Planned: IaC Security Project_ |
+### IAM Misconfiguration Lab  
+Simulate AWS IAM misconfigurations and privilege escalation scenarios. Remediate permissions to enforce least privilege and track changes via CloudTrail.
 
----
+### Secure S3 Bucket Deployment  
+Audit and secure misconfigured public S3 buckets. Enforce encryption, tighten access policies, and automate deployment using Python and AWS CLI.
 
-## 📜 Certifications
+### Cloud Security Posture Assessment  
+Audit AWS environments using ScoutSuite and Prowler. Identify misconfigurations, map them to CIS Benchmarks, and document remediation strategies.
 
-- 🧰 **Foundations of Cybersecurity** – *Coursera / Google*  
-  [View Credential](https://www.coursera.org/account/accomplishments/verify/K0Q5M48S27SP)
+### Infrastructure as Code Security (Terraform + tfsec)  
+Deploy secure AWS infrastructure using Terraform. Integrate security tools like tfsec and checkov to identify risks in IaC templates.
 
 ---
 
-> 🧪 **In Progress:**
-> - 🧰 *Google Cybersecurity Professional Certificate*
-> - ☁️ *AWS Certified Cloud Practitioner*  
-> - 🛡️ *CompTIA Security+*
+## Skills
+
+| Category                    | Tools & Technologies                                  | Projects                     |
+|----------------------------|--------------------------------------------------------|------------------------------|
+| Cloud Platforms            | AWS (IAM, EC2, S3, CloudTrail, CloudWatch)            | IAM Lab, S3 Deployment       |
+| Cloud Security             | IAM hardening, WAF, S3 access control                 | IAM Lab, S3 Deployment       |
+| Vulnerability Scanning     | Nmap, Nikto, OpenVAS                                  | [Vulnerability Scanner Lab](https://github.com/abrahamgo52/Vulnerability-Scanner-Lab/tree/main)    |
+| Compliance & Auditing      | ScoutSuite, Prowler                                   | Posture Assessment           |
+| Automation & Scripting     | Python, Bash                                          | Secure S3 Deployment         |
+| Infrastructure as Code     | Terraform, tfsec, checkov                             | IaC Security Project         |
 
 ---
 
-## 📫 Let's Connect
+## Certifications
+
+**Foundations of Cybersecurity** – Google (Coursera)  
+[View Credential](https://www.coursera.org/account/accomplishments/verify/K0Q5M48S27SP)
+
+**In Progress**  
+- Google Cybersecurity Professional Certificate  
+- AWS Certified Cloud Practitioner  
+- CompTIA Security+
+
+---
+
+## Contact
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abrahamgo)  
 - Personal Email: abrahamgall52@gmail.com
 
 ---
 
-🛡️ *Always learning. Always securing.*
+*Always learning. Always securing.*
